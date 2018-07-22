@@ -1,0 +1,7 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1416415833000 831818 87c45f9f66da531a65f065ee32f603c7e6db1528 /Users/cciloaner/hello/platforms/android/CordovaLib/libs/Parse-1.7.1.jar
+1416415833000 831818 87c45f9f66da531a65f065ee32f603c7e6db1528 /Users/cciloaner/hello/platforms/android/libs/Parse-1.7.1.jar
+1416415833000 46447 e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e /Users/cciloaner/hello/platforms/android/CordovaLib/libs/bolts-android-1.1.3.jar
+1416415833000 46447 e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e /Users/cciloaner/hello/platforms/android/libs/bolts-android-1.1.3.jar

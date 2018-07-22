@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:5
+-keep class cpm.example.HelloWorld.App { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class cpm.example.HelloWorld.HelloWorld { <init>(...); }
+
